@@ -1,6 +1,6 @@
 require "rails-assets-bootstrap-markdown/version"
 
-require "rails-assets-bootstrap"
+require "bootstrap-sass"
 
 if defined?(Rails)
   module RailsAssetsBootstrapMarkdown
